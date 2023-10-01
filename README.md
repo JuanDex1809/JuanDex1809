@@ -7,7 +7,8 @@
 <div>
   <h2 align="center">Lenguajes</h2>
   <p>
-    <a href="">
+    <img src="https://github.com/juandedios-reyna/juandedios-reyna/blob/main/assets/html-5.png?raw=true" alt="HTML" width="80" height="80"/>
+    <img src="https://github.com/juandedios-reyna/juandedios-reyna/blob/main/assets/html-5.png?raw=true" alt="HTML" width="80" height="80"/>
   </p>
 </div>
 
