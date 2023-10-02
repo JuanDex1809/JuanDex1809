@@ -46,5 +46,5 @@
 
 ## 🌐 Social:
 <ul>
-  <li><img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/linkedin.png" alt="LinkedIn" width="10" height="10"/><a href="www.linkedin.com/in/juan-de-dios-reyna-coronado-b71602245">    LinkedIn</a></li>
+  <li><img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/linkedin.png" alt="LinkedIn" width="20" height="20"/><a href="www.linkedin.com/in/juan-de-dios-reyna-coronado-b71602245">    LinkedIn</a></li>
 </ul>
