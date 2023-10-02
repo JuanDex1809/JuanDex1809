@@ -30,6 +30,19 @@
   </p>
 </div>
 
+<hr>
+
+<div>
+  <p align="center">Complementos<p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/sql-server.png" alt="SqlServer" width="80" height="80"/>
+    <img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/mysql.png" alt="MySql" width="80" height="80"/>
+    <img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/postgresql.png" alt="PostgreSQL" width="80" height="80"/>
+  </p>
+</div>
+
+
+
 ## 🌐 Redes Sociales:
 <p>a</p>
 
