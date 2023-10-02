@@ -25,7 +25,7 @@
   <p align="center">Motores de Bases de Datos<p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/sql-server.png" alt="SqlServer" width="80" height="80"/>
-    <img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/mysql.png" alt="MySql" width="80" height="80"/>
+    <img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/mysql.png" alt="MySql" width="120" height="80"/>
     <img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/postgresql.png" alt="PostgreSQL" width="80" height="80"/>
   </p>
 </div>
@@ -35,9 +35,10 @@
 <div>
   <p align="center">Complementos<p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/sql-server.png" alt="SqlServer" width="80" height="80"/>
-    <img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/mysql.png" alt="MySql" width="80" height="80"/>
-    <img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/postgresql.png" alt="PostgreSQL" width="80" height="80"/>
+    <img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/canva.png" alt="Canva" width="80" height="80"/>
+    <img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/figma.png" alt="Figma" width="80" height="80"/>
+    <img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/illustrator.png" alt="Adobe Illustrator" width="80" height="80"/>
+    <img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/googlewspace.png" alt="Google Workspace" width="80" height="80"/>
   </p>
 </div>
 
