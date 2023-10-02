@@ -44,6 +44,7 @@
 
 
 
-## 🌐 Redes Sociales:
-<p>a</p>
-
+## 🌐 Social:
+<ul>
+  <li><a href="www.linkedin.com/in/juan-de-dios-reyna-coronado-b71602245">LinkedIn</a><img src="https://raw.githubusercontent.com/juandedios-reyna/juandedios-reyna/main/assets/linkedin.png" alt="LinkedIn" width="30" height="30"/></li>
+</ul>
