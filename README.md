@@ -4,9 +4,6 @@
 
 <h1 align="center" style="color:blue">Hola!👋 Soy Juan De Dios Reyna</h1>
 
-## 💫 Sobre mí:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 ## 💻 Habilidades:
 <div>
   <p align="center">Lenguajes<p>
